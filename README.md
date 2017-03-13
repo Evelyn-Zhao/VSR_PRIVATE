@@ -1,3 +1,4 @@
 # VSR_PRIVATE
+# -----------------------------
 
-# FOR DEVELPERS OF VSR PROJE##3#E3CTD
+## FOR DEVELPERS OF VSR PROJET
