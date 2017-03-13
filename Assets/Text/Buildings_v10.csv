@@ -1,0 +1,367 @@
+special,EARLY_YEARS_TOP,EY_Tents_1788,,26,1788,365,1788,
+special,EARLY_YEARS_TOP,EY_HospitalTents_1788to1790,,26,1788,365,1790,
+special,EARLY_YEARS_TOP,EY_FirstHospital_1791to1815,,1,1791,365,1815,
+special,EARLY_YEARS_TOP,EY_BarkHut_1788to1799,,150,1788,365,1799,
+special,EARLY_YEARS_TOP,EY_Cottages_1800to1825,,1,1800,200,1825,
+special,Flagpole_1788to1846_TOP,FlagPole_1788to1846,,26,1788,365,1846,
+special,Flagpole_1788to1846_TOP,Govt_Flag_1788to1846,,26,1788,365,1846,
+special,FirstGovernmentHouse_1789to1846_TOP,FirstGovernmentHouse_1789to1846,,1,1789,200,1846,
+special,GovernmentHouse_1845_TOP,GovernmentHouse_1845,,1,1845,na,na,
+special,Windmill1_1797to1830_TOP,Windmill1_1797to1830,,1,1797,200,1830,
+special,Windmill1_1797to1830_TOP,Windmill1Sails_1797to1810,,1,1797,200,1810,
+special,Windmill2_1798to1812_TOP,Windmill2_1798to1812,,1,1798,200,1810,
+special,Windmill2_1798to1812_TOP,Windmill2Sails_1798to1812,,1,1798,200,1810,
+special,Windmill3_1800to1815_TOP,Windmill3_1800to1815,,1,1800,200,1815,
+special,Windmill3_1800to1815_TOP,Windmill3Sails_1800to1815,,1,1800,200,1815,
+special,CircQuay_RailwayStation_TOP,RailwayStation_1956,,1,1956,na,na,
+special,CircQuay_RailwayStation_TOP,RailwayLine_1954,,1,1954,na,na,
+special,CircQuay_OSPassengerTerminal_TOP,OverseasPassengerTerminal_1960,,1,1960,na,na,
+special,CampbellsCove_TOP,WharfHouse_1802,,1,1802,200,1890,
+special,CampbellsCove_TOP,CampbellsStores_1831,,1,1831,na,na,
+special,CampbellsCove_TOP,CampbellsStores_1890,,1,1890,na,na,
+special,HarbourBridge_TOP,HarbourBridge1956,,1,1956,na,na,
+special,HarbourBridge_TOP,HarbourBridgeNorth_1928,,1,1928,na,na,
+special,HarbourBridge_TOP,HarbourBridgeSouth_1928,,1,1928,na,na,
+special,HarbourBridge_TOP,HarbourBridgeSouthLegs_1928,,1,1928,na,na,
+special,HarbourBridge_TOP,HarbourBridgeControlRoom_1928,,1,1928,na,na,
+special,HarbourBridge_TOP,CahillExpressWay_1955,,1,1928,na,na,
+special,HarbourBridge_TOP,CahillExpressWayBits_1955,,1,1928,na,na,
+special,TankStream_LogBridge_1788_TOP,TankStream_LogBridge_1788,,50,1788,200,1810,
+special,TankStream_StoneBridge_1810_TOP,TankStream_StoneBridge_1810,,201,1810,365,1849,
+corner,ArgyleSt_GarrisonChurch_TOP,GarrisonChurch_1840,Garrison Church,1,1840,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_GarrisonChurch.htm
+39-43,ArgyleSt_39to43_TOP,BritishSeamansHotel_1886,British Seamens Hotel,1,1966,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_39to43.htm 
+45-47,ArgyleSt_45to47_TOP,GannonHouse_1839,Gannon House,1,1839,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_45to47.htm
+12-20,ArgyleSt_12to20_TOP,ArgyStores_12_West_1840,Argyle Stores,1,1840,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_12to20.htm
+12-20,ArgyleSt_12to20_TOP,ArgyStores_14to16_South_1878,Argyle Stores,1,1878,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_12to20.htm
+12-20,ArgyleSt_12to20_TOP,ArgyStores_18_North_1881,Argyle Stores,1,1881,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_12to20.htm
+12-20,ArgyleSt_12to20_TOP,ArgyStores_20_East_1826,Argyle Stores,1,1826,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_12to20.htm
+special,AlfSt_Specials_TOP,AlfSt_Frontage_1850to1980,,1,1850,200,1979,
+corner,,ParagonHotel_1868,Paragon Hotel,1,1868,na,na,http://virtualsydneyrocks.com/GuideBookPages/LoftusStreet/LoftusSt_ParagonHotel.htm
+1,AlfSt_1_TOP,GoldfieldsHouse_1966,Goldfields House,1,1966,na,na,http://virtualsydneyrocks.com/GuideBookPages/AlfredStreet/AlfredSt_1.htm
+31,AlfSt_31_TOP,NavalAndInvestStore_1789,Customs House,1,1789,200,1844,http://virtualsydneyrocks.com/GuideBookPages/AlfredStreet/AlfredSt_31.htm
+31,AlfSt_31_TOP,CustomsHouse_1845,Customs House,1,1845,200,1884,http://virtualsydneyrocks.com/GuideBookPages/AlfredStreet/AlfredSt_31.htm
+31,AlfSt_31_TOP,CustomsHouse_1885,Customs House,1,1885,na,na,http://virtualsydneyrocks.com/GuideBookPages/AlfredStreet/AlfredSt_31.htm
+33,AlfSt_33_TOP,AMPBuilding_1962,AMP Building,1,1962,na,na,http://virtualsydneyrocks.com/GuideBookPages/AlfredStreet/AlfredSt_33.htm
+1,AlbertSt_TOP,AlbSt_1850to1926,,1,1850,200,1926,
+1-7,AtherdenSt_1to7_TOP,PlayfairsTerrace_1880,Playfairs Terrace,1,1880,na,na,http://virtualsydneyrocks.com/GuideBookPages/AtherdenStreet/AtherdenSt_1to7.htm
+2-4,AtherdenSt_2to4_TOP,AveryTerrace_1881,Avery Terrace,1,1881,na,na,http://virtualsydneyrocks.com/GuideBookPages/AtherdenStreet/AtherdenSt_2to4.htm
+special,BennelongsHouse_TOP,BennelongsHouse_1790,Bennelongs House,1,1790,200,1795,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,FortMacquarie_TOP,FortMacquarie_1817to1901,Fort Macquarie,1,1817,200,1901,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,FortMacquarie_TOP,FortMacquarieBase_1817to1901,Fort Macquarie,1,1817,200,1901,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,FortMacquarie_TOP,FortMacquarieFlag_1817to1901,Fort Macquarie,1,1817,200,1901,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,TramDepot_TOP,TramDepot_1902,Fort Macquarie Tram Depot,1,1902,200,1957,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,TramDepot_TOP,TramDepotBase_1902,Fort Macquarie Tram Depot,1,1902,200,1957,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,TramDepot_TOP,Tram1_1902,Fort Macquarie Tram Depot,1,1902,200,1957,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,TramDepot_TOP,Tram2_1902,Fort Macquarie Tram Depot,1,1902,200,1957,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,TramDepot_TOP,Tram3_1902,Fort Macquarie Tram Depot,1,1902,200,1957,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,SydneyOperaHouse_TOP,OperaHouseMain_1958,Sydney Opera House,1,1958,na,na,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,SydneyOperaHouse_TOP,OperaHouseSails_1958,Sydney Opera House,1,1958,na,na,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,SydneyOperaHouse_TOP,OperaHouseWharf_1958,Sydney Opera House,1,1958,na,na,http://virtualsydneyrocks.com/GuideBookPages/BennelongPoint/BennelongPoint.htm
+special,BridgeSt_Specials_TOP,MuseumOfSydney_1993,,1,1993,na,na,
+special,BridgeSt_Specials_TOP,GovernorPhillipTower_1993,,1,1993,na,na,
+5-11,BridgeSt_5to11_TOP,BurnsPhilpBuilding_1899,Burns Philp Building,1,1899,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_5to11.htm
+13-15,BridgeSt_13to15A_TOP,PaulsTerrace_1836,Pauls Terrace,1,1836,200,1849,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_13to15.htm
+13-15,BridgeSt_13to15A_TOP,RoyaltChambers_1850to1958,Royalt Chambers,1,1850,200,1958,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_13to15.htm
+13-15,BridgeSt_13to15A_TOP,LinerHouse_1959,Liner House,1,1959,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_13to15.htm
+17-19,BridgeSt_17to19_TOP,ScottishHouse_1926,Scottish House,1,1926,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_17to19.htm
+23-33,BridgeSt_23to33_TOP,NSWLandsDeptBuilding_1891,NSW Lands Department Building,1,1877,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_23to33.htm
+35-39,BridgeSt_35to39_TOP,NSWDeptEducation_1912,NSW Department of Education Building,1,1912,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_35to39.htm
+65,BridgeSt_65_TOP,NSWChiefSecretarysBuilding_1873,NSW Chief Secretarys Building,1,1873,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_121.htm
+4,BridgeSt_4_TOP,Cliveden_1985,Cliveden,1,1985,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_4.htm
+6,BridgeSt_6_TOP,NorthumberlandInsurance_1885,Northumberland Insurance Building,1,1884,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_6.htm
+10,BridgeSt_10_TOP,ExchangeHouse_1960,Exchange House,1,1960,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_10.htm
+16-30,BridgeSt_18_TOP,ASXAuditorium_1960,Australian Stock Exchange Auditorium,1,1960,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_16to30.htm
+,BridgeSt_20_TOP,ASX_1960,Australian Stock Exchange,1,1960,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_16to30.htm
+38-42,BridgeSt_38to42_TOP,DalgetyHouse_1966,Dalgety House,1,1966,200,1997,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_38to42.htm
+38-42,BridgeSt_38to42_TOP,Bridgeport_1998,AEA Bridgeport Apartments,1,1998,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_38to42.htm
+44,BridgeSt_44_TOP,BoothHouse_1937,Booth House,1,1937,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_44.htm
+50,BridgeSt_50_TOP,AMPTower_1977,AMP Tower,1,1976,na,na,http://virtualsydneyrocks.com/GuideBookPages/BridgeStreet/BridgeSt_50.htm
+2,BulletinPl_2_TOP,BulPl_2_1998,2 Bulletin Place,1,1998,na,na,http://virtualsydneyrocks.com/GuideBookPages/BulletinPlace/BulletinPl_2.htm
+6-8,BulletinPl_6to8_TOP,BulPl_6to8_1880,Wharehouse,1,1880,na,na,http://virtualsydneyrocks.com/GuideBookPages/BulletinPlace/BulletinPl_6to8.htm
+10-14,BulletinPl_10to14_TOP,BulPl_10to14_1880,Wharehouse,1,1880,na,na,http://virtualsydneyrocks.com/GuideBookPages/BulletinPlace/BulletinPl_10to14.htm
+16-18,BulletinPl_16to18_TOP,BulPl_16to18_1816,Mary Reiby Wharehouse,1,1816,na,na,http://virtualsydneyrocks.com/GuideBookPages/BulletinPlace/BulletinPl_16to18.htm
+2,CranePl_2_TOP,BaconsBuilding_1850,,1,1850,na,na,
+special,CumbSt_Specials_TOP,CumbSt_Hut_1990,,1,1990,na,na,
+3,CumbSt_3_TOP,CumbSt_3_1928to1997,,1,1928,200,1997,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_3.htm
+3,CumbSt_3_TOP,KingGeorgeV_RecCentre_1998,King George V Recreational Centre,1,1998,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_3.htm
+14-36,CumbSt_14to36_TOP,SiriusApartments_1979,Sirius Apartments,1,1979,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_14to36.htm
+88,CumbSt_88_TOP,CumbSt_88_1991,Offices,1,1991,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_88.htm
+96-98,CumbSt_96to98_TOP,GlenmoreHotel_1921,Glenmore Hotel ,1,1921,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_96to98.htm
+100-104,CumbSt_100to104_TOP,AustralianHotel_1914,Australian Hotel,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_100to104.htm
+110,CumbSt_110_TOP,YHA_2010,Sydney Rocks YHY ,1,2010,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_110.htm
+110,CumbSt_110_TOP,YHAScreens_2010,Sydney Rocks YHY ,1,2010,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_110.htm
+110,CumbSt_110_TOP,YHABigDigCentre_2010,Sydney Rocks YHY ,1,2010,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_110.htm
+130,CumbSt_130_TOP,CumbSt_130_1888,,1,1888,na,na,
+132-134,CumbSt_132to134_TOP,CumbSt_132to134_1891,Terraces ,1,1891,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_132to134.htm
+136-138,CumbSt_136to138_TOP,CumbSt_136to138_1881,Shops and Residences,1,1881,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_136to138.htm
+140-142,CumbSt_140to142_TOP,CumbSt_140to142_1914,Tenements,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_140to142.htm
+176,CumbSt_176_TOP,Lilyvale_1845,Lilyvale,1,1845,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_176.htm
+176,CumbSt_176_TOP,ShangriLa_1988,Shangrila Hotel,1,1988,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_176_ShangriLa.htm
+178-180,CumbSt_178to180_TOP,ButcheryBuildings_1890,Butchery Buildings,1,1890,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_178to180.htm
+182,CumbSt_182_TOP,CumbSt_182_1911,Shop and Residence,1,1911,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_182.htm
+182.5-186,Cumbst_182to186_TOP,CumbSt_185_5to186_1890,Terraces,1,1890,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_182.5to186.htm
+188-200,CumbSt_188to200_TOP,CumbSt_188to200_1850,CumbSt_188to200_1850,1,1850,na,na,
+202-210,CumbSt_202to210_TOP,ReynellBuilding_1913,Reynell Building,1,1913,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_202to210.htm
+212-218,CumbSt_212to218_TOP,LawsonHouse_1924,Lawson House,1,1924,na,na,http://virtualsydneyrocks.com/GuideBookPages/CumberlandStreet/CumberlandSt_212to218.htm
+8-14,DallSt_8to14_TOP,ElectricitySubStation_1968,Electricity Substation,1,1968,na,na,http://virtualsydneyrocks.com/GuideBookPages/DalleyStreet/DalleySt_8to14.htm
+special,DawesPoint_TOP,DawesPoint_Observatory_1788,Dawes Observatory,1,1788,200,1790,http://virtualsydneyrocks.com/GuideBookPages/DawesPoint/DawesPoint.htm
+special,DawesPoint_TOP,DawesPoint_PowderMagazine_1789to1819,Dawes Point Fort,1,1789,200,1819,http://virtualsydneyrocks.com/GuideBookPages/DawesPoint/DawesPoint.htm
+special,DawesPoint_TOP,DawesPoint_Flag_1791to1819,Dawes Point Fort,1,1791,200,1819,http://virtualsydneyrocks.com/GuideBookPages/DawesPoint/DawesPoint.htm
+special,DawesPoint_TOP,Dawespoint_Fort_1820to1925,Dawes Point Fort,1,1820,200,1925,http://virtualsydneyrocks.com/GuideBookPages/DawesPoint/DawesPoint.htm
+special,DawesPoint_TOP,DawesPoint_Flag,Dawes Point Fort,1,1820,200,1925,http://virtualsydneyrocks.com/GuideBookPages/DawesPoint/DawesPoint.htm
+10-14,EssexSt_10to14_TOP,HartsBuilding_1890,Harts Buildings,1,1890,na,na,http://virtualsydneyrocks.com/GuideBookPages/EssexStreet/EssexSt_10to14.htm
+special,GeorSt_Specials_TOP,GeorSt_Gaol_1797to1835,George Street Gaol,1,1797,200,1835,,
+special,GeorSt_Specials_TOP,GeorSt_DockYard_1796to1810,Government Dock Yard,1,1796,200,1810,,
+special,GeorSt_Specials_TOP,GeorSt_DockYard_1810to1833,Government Dock Yard,1,1810,200,1833,,
+special,GeorSt_Specials_TOP,GeorSt_DockYard_1796to1833_GateL,Government Dock Yard,1,1796,200,1833,,
+special,GeorSt_Specials_TOP,GeorSt_DockYard_1796to1833_GateR,Government Dock Yard,1,1796,200,1833,,
+special,GeorSt_Specials_TOP,GeorSt_DockYard_1796to1833_BoatShell,Government Dock Yard,1,1796,200,1833,,
+special,GeorSt_Specials_TOP,GeorSt_DockYard_1796to1833_Fence,Government Dock Yard,1,1796,200,1833,,
+special,GeorSt_Specials_TOP,CommissariatStore_1810to1930,Commissariat Stores,1,1810,200,1930,,
+special,GeorSt_Specials_TOP,CommissariatStore_1812to1930,Commissariat Stores,1,1812,200,1930,,
+23,GeorSt_23_TOP,AjaxBuilding_1915,Ajax Building,1,1915,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_23.htm,
+25-27,GeorSt_25to27_TOP,MercantileHotel_1914,MercantileHotel,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_25to27.htm,
+29-31,GeorSt_29to31_TOP,GeorSt_29to31_1866,Terraces,1,1866,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_29to31.htm,
+33-41,GeorSt_33to41_TOP,SergeantMajorsRow_1881,Sergeant Majors Row,1,1881,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_33to41.htm,
+43-45,GeorSt_43to45_TOP,MerchantsHouse_1848,Merchants House,1,1848,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_43to45.htm,
+47,GeorSt_47_TOP,UnionBondStore_1841,Union Bond Store,1,1841,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_47.htm,
+53-55,GeorSt_53to55_TOP,HolidayInn_1924,Holiday Inn,1,1925,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_53to55.htm,
+69,GeorSt_69_TOP,WatermansArms_1844,Watermans Arms,1,1844,200,1848,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_69.htm,
+69,GeorSt_69_TOP,ObserverTavern_1848,ObserveTavern,1,1848,200,1908,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_69.htm,
+69,GeorSt_69_TOP,ObserverHotel_1908,Observer Hotel,1,1909,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_69.htm,
+71,GeorSt_71_TOP,RMWilliams_1900,RMWilliams,1,1900,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_71.htm,
+73,GeorSt_73_TOP,AmbulanceStation_1842,Ambulance Station,1,1842,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_73.htm,
+75-75.5,GeorSt_75_TOP,GeorSt_75_1883,Retail,1,1883,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_75to75.5.htm,
+77-85,GeorSt_77to85_TOP,UnwinsStore_1843,Unwins Store,1,1843,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_77to85.htm,
+87-89,GeorSt_87to89_TOP,OrientHotel_1843,Orient Hotel ,1,1843,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_87to89.htm,
+87-89,GeorSt_87to89_TOP,OrientHotel_1843_Courtyard,Orient Hotel ,1,1843,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_87to89.htm,
+87-89,GeorSt_87to89_TOP,OrientHotel_1843_Wing,Orient Hotel ,1,1843,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_87to89.htm,
+91-93,GeorSt_91to93_TOP,Assistant Surgeons House,Assistant Surgeons House,1,1788,200,1839,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_91.htm,
+91-93,GeorSt_91to93_TOP,Gannons Buildings,Gannons Buildings,1,1840,200,1889,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_91.htm,
+91,GeorSt_91_TOP,ASNHotel_1839,ASN Hotel,1,1839,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_91.htm,
+93,GeorSt_93_TOP,GeorSt_93_1891,Retail,1,1891,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_93.htm,
+95-99,GeorSt_95to99_TOP,GeorSt_95to99_1868,Shops and residences,1,1868,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_95to99.htm,
+101,GeorSt_101_TOP,GeorSt_101_1838,Philips Foot Restaurant,1,1838,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_101.htm,
+103,GeorSt_103_TOP,GeorSt_103_1856,Shop and residence,1,1856,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_103.htm,
+105,GeorSt_105_TOP,GeorSt_105_1851,Shop and residence,1,1856,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_105.htm,
+107-109,GeorSt_107to109_TOP,Rockpool_1860,Rockpool_1860,1,1860,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_107to109.htm,
+111-115,GeorSt_111to115_TOP,CaptainTenchArcade_1920,CaptainTench Arcade,1,1920,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_111to115.htm,
+117-119,GeorSt_117to119_TOP,JulianAshton_1830,Julian Ashton School of Art,1,1830,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_117to119.htm,
+121-123,GeorSt_121to123_TOP,GeorSt_121to123_1880,GeorSt_121to123_1880,1,1880,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_121.htm,
+125,GeorSt_125_TOP,GeorSt_125_1880,GeorSt_125_1880,1,1882,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_123to125.htm,
+127-129,GeorSt_127to129_TOP,OldPoliceStation_1882,Old Police Station,1,1882,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_127to129.htm,
+131-135,GeorSt_131to135_TOP,ESandACBank_1886,ES and AC Bank,1,1886,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_131to135.htm,
+137,GeorSt_137_TOP,FortuneOfWar_1893to1900,Fortune Of War,1,1893,200,1900,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_137.htm,
+137,GeorSt_137_TOP,FortuneOfWar_1922,Fortune Of War,1,1922,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_137.htm,
+139-141,GeorSt_139to141_TOP,GeorSt_139to141_1881,Shops and Residences,1,1881,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_139to141.htm,
+139-141,GeorSt_139to141_TOP,FortuneOfWar_1825to1880,Pub,1,1825,200,1880,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_139to141.htm,
+143-143A,GeorSt_143_TOP,Samuel Terry Terrace,Samuel Terry Terrace,1,1820,200,1886,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_143to143A.htm,
+143-143A,GeorSt_143to143A_TOP,RussellHotel_1887,Russell Hotel,1,1887,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_143to143A.htm,
+145,GeorSt_145_TOP,GeorSt_145_1893,Shop and residence,1,1893,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_145.htm,
+147,GeorSt_147_TOP,GeorSt_147_1914,Shop and residence,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_147.htm,
+147,GeorSt_147_TOP,GeorSt_147_1914_Awning,Shop and residence,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_147.htm,
+149-151,GeorSt_149to151_TOP,GeorSt_149to151_1913,Shop and residence,1,1913,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_149to151.htm,
+153-155,GeorSt_153to155_TOP,NewYorkHotelDetail_1908,New York Hotel,1,1908,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_153to155.htm,
+199,GeorSt_199_TOP,FourSeasonsHotel_1987,Four Seasons Hotel,1,1987,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_199.htm,
+225,GeorSt_225_TOP,GrosvenorPlace_1988,Grosvenor Place,1,1988,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_225.htm,
+229,GeorSt_229_TOP,BrooklynHotel_1912,Brooklyn Hotel,1,1912,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_229.htm,
+231,GeorSt_231_TOP,GeorSt_231_1914,GeorSt 231,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_231.htm,
+233-235,GeorSt_233to235_TOP,JohnsonsBuilding_1912,Johnsons Building,1,1912,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_233to235.htm,
+255,GeorSt_255_TOP,NABHouse_1985,NABHouse_1985,1,1985,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_255.htm,
+36-64,GeorSt_36to64_TOP,MiningMuseum_1902,Mining Museum,1,1902,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_36to64.htm,
+66,GeorSt_66_TOP,GeorSt_66_1900,GeorSt_66_1900,1,1900,na,na,,
+68-84,GeorSt_68to84_TOP,MetcalfeBondStores66to76_1912,MetcalfeBondStores 66to76,1,1912,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_66to84.htm,
+68-84,GeorSt_68to84_TOP,MetcalfeBondStores78to84_1916,MetcalfeBondStores 78to84,1,1916,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_66to84.htm,
+86-88,GeorSt_86to88_TOP,BushellsWharehouse_1886,Bushells Wharehouse,1,1886,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_86to88.htm,
+98-100,GeorSt_98to100_TOP,MarinersChurch_1856,Mariners Church,1,1856,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_98to100.htm,
+98-100,GeorSt_98to100_TOP,MarinersChurch1_1909,Mariners Church,1,1909,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_98to100.htm,
+98-100,GeorSt_98to100_TOP,MarinersChurch2_1909,Mariners Church2,1,1909,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_98to100.htm,
+98-100,GeorSt_98to100_TOP,MarinersChurch3_1909,Mariners Church3,1,1909,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_98to100.htm,
+102-104,GeorSt_102to104_TOP,CoronersCourt_1906,Coroners Court,1,1906,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_102to104.htm,
+106,GeorSt_106_TOP,SailorsHome_1864to1925,Sailors Home,1,1864,200,1925,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_106.htm,
+106,GeorSt_106_TOP,SailorsHome_1926,Sailors Home,1,1865,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_106.htm,
+110,GeorSt_110_TOP,CadmansWharf_1816,Cadmans Cottage Wharf,1,1816,200,1849,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_110.htm,
+110,GeorSt_110_TOP,CadmansCottage_1816,Cadmans Cottage,1,1816,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_110.htm,
+132-134,GeorSt_132to134_TOP,NewPoliceStation_1923,New Police Station,1,1923,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_132to134.htm,
+136-140,GeorSt_136to140_TOP,MCA_1949,MCA,1,1949,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_136to140.htm,
+176,GeorSt_176_TOP,GeorSt_176_1990,Jacksons On George,1,1990,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_176.htm,
+176-188,GeorSt_178to188_TOP,GeorSt_178to186_1970,Jacksons on George Hotel,1,1970,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_178to186.htm,
+190,GeorSt_190_TOP,GeorSt_190_1988,GeorSt_190_1988,1,1988,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_190to200.htm,
+200,GeorSt_200_TOP,GeorSt_200_1973,GeorSt_200_1973,1,1973,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_190to200.htm,
+210,GeorSt_210_TOP,LippoHouse_1990,LippoHouse_1990,1,1990,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_210.htm,
+220,GeorSt_220_TOP,GeorSt_220_1972,GeorSt_220_1972,1,1972,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_220.htm,
+234-242,GeorSt_234to242_TOP,GeorSt_234to242_1970,GeorSt_234to242_1970,1,1970,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_234to242.htm,
+244,GeorSt_244_TOP,MetropolitanHotel_1834,MetropolitanHotel_1834,1,1834,200,1909,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_244.htm,
+244,GeorSt_244_TOP,MetropolitanHotel_1910,MetropolitanHotel_1910,1,1910,na,na,http://virtualsydneyrocks.com/GuideBookPages/GeorgeStreet/GeorgeSt_244.htm,
+2,GlobeSt_2_TOP,StateRecordCentre_xxxx,NSWRecordsCentre,1,xxxx,na,na,http://virtualsydneyrocks.com/GuideBookPages/GlobeStreet/GlobeSt_2.htm
+103-111,GlouSt_103to111_TOP,JobbinsTerrace_1855,Jobbins Terrace,1,1855,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_103to111.htm
+113-115,GlouSt_113to115_TOP,GlouSt_113to115_1881,Terrace,1,1881,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_113to115.htm
+117-117A,GlouSt_117to117A_TOP,GlouSt_117to117A_1912,Tenements,1,1912,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_117to117A.htm
+157-161,GlouSt_157to161_TOP,ScienceHouse_1930,Science House,1,1930,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_157to161.htm
+171-193,GlouSt_171_TOP,GlouSt_171_1850to2010,Building,1,1850,200,2010,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_171to193.htm
+171-193,GlouSt_171_TOP,StamfordResidences_2011,Stamford Residences,1,2011,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_171to193.htm
+26-30,GlouSt_26to30_TOP,GlouSt_ViewTerrace_1893,View Terraces,1,1893,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_26to30.htm
+32-36,GlouSt_32to36_TOP,GlouSt_32to36_1885,Terraces,1,1885,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_32to36.htm
+38-40,GlouSt_38to40_TOP,GlouSt_38to40_1885,Terraces,1,1885,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_38to40.htm
+42-44,GlouSt_42to44_TOP,GlouSt_42to44_1986,Building,1,1986,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_38to40.htm
+46-56,GlouSt_46to56_TOP,EdwardianCottages_1914,Tenements,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_46to56.htm
+58-64,GlouSt_58to64_TOP,SusannahPlace_1844,Susannah Place,1,1844,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_58to64.htm
+66-68,GlouSt_66to68_TOP,BakersTerrace_1875,Bakers Terrace,1,1875,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_66to68.htm
+66-68,GlouSt_66to68_TOP,BakersTerrace_Walls_1875to1979,Bakers Terrace,1,1875,200,1979,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_66to68.htm
+70-72,GlouSt_70to72_TOP,BakersTerrace_1882,Bakers Terrace,1,1882,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_70to72.htm
+70-72,GlouSt_70to72_TOP,BakersTerrace_Walls_1882to1979,Bakers Terrace,1,1882,200,1979,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_70to72.htm
+98-100,GlouSt_90to100_TOP,QuayWest_1991,Quay West,1,1991,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_98to100.htm
+120,GlouSt_120_TOP,HouseBoardBuilding_1910,Housing Board Building,1,1910,na,na,http://virtualsydneyrocks.com/GuideBookPages/GloucesterStreet/GloucesterSt_120.htm
+16-18,GrovSt_16to18_TOP,NSWHousingBoardBuilding_1921,NSW Housing Board Building,1,1921,na,na,http://virtualsydneyrocks.com/GuideBookPages/GrovesnorStreet/GrovesnorSt_16to18.htm
+20,GrovSt_20_TOP,StPatricksChurch_1840,St Patricks Church,1,1840,na,na,http://virtualsydneyrocks.com/GuideBookPages/GrovesnorStreet/GrovesnorSt_20.htm
+20,GrovSt_20_TOP,StPatricksChurch2_1840to1913,St Patricks Church ,1,1840,200,1913,http://virtualsydneyrocks.com/GuideBookPages/GrovesnorStreet/GrovesnorSt_20.htm
+24-30,GrovSt_24to30_TOP,FederationHall_1891,Federation Hall,1,1891,na,na,http://virtualsydneyrocks.com/GuideBookPages/GrovesnorStreet/GrovesnorSt_24to30.htm
+35-53,HarrSt_35to53_TOP,ClockTowerMall_1987,Clock Tower Mall,1,1987,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_35to53.htm
+49-53,HarrSt_49to53_TOP,HarrSt_49to53_1850,Unknown,1,1850,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_55to59.htm
+55-59,HarrSt_55to59_TOP,StaffordTerrace_1886,Stafford Terrace,1,1886,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_55to59.htm
+61-65,HarrSt_61to65_TOP,HarrSt_61to65_steps,Terrace,1,1870,na,na,
+67,HarrSt_67_TOP,HarrSt_67_1860,Terrace,1,1860,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_67.htm
+71,HarrSt_71_TOP,HarrSt_71_1895,House,1,1895,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_71.htm
+75,HarrSt_75_TOP,RendezvousHotel_1986,Rendezvous Stafford Hotel,1,1986,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_75.htm
+85,HarrSt_85_TOP,HarrSt_85_BigShed_1930to1950,,1,1930,200,1950,
+85,HarrSt_85_TOP,HarrSt_85_1980,,1,1980,na,na,
+85,HarrSt_85_TOP,HarrSt_85_Steps_1980,,1,1980,na,na,
+85,HarrSt_85_TOP,HarrSt_85_Railings_1980,,1,1980,na,na,
+85,HarrSt_85_TOP,HarrSt_85_Garden_1980,,1,1980,na,na,
+85,HarrSt_85_TOP,HarrSt_85_Courtyard_1980,,1,1980,na,na,
+85,HarrSt_85_TOP,HarrSt_85_Wall_1980,,1,1980,na,na,
+117-119,HarrSt_117to119_TOP,AccountantsHouse2_1840,Accountants House,1,1840,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_117to119.htm
+121-127,HarrSt_121to127_TOP,BushellsBuilding_1924,Bushells Building,1,1924,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_121to127.htm
+129,HarrSt_129_TOP,TheCove_1998,The Cove,1,1998,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_129.htm
+135,HarrSt_135_TOP,BelgianBeerCafe_1900,Belgian Beer Café,1,1900,na,na,
+137,HarrSt_137_TOP,StPatricksOldPresbytery_1889,St Patricks Old Presbytery,1,1889,na,na,
+141,HarrSt_141_TOP,StPatricks_ChurchHall_1914,St Patricks Church Hall,1,1914,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_StPatricksHall.htm
+141,HarrSt_141_TOP,StPatricks_GirlsCommercialCollege_1928,St Patricks Girls Commercial College,1,1928,na,na,
+28-32,HarrSt_28to32_TOP,ReynoldsCottage2_1830,Reynolds Cottages,1,1830,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_28to32.htm
+28-32,HarrSt_28to32_TOP,ReynoldsCottage1_1830,Reynolds Cottages,1,1830,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_28to32.htm
+34-40,HarrSt_34to40_TOP,EvansStores_1890,Evans Store,1,1890,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_34to40.htm
+42-52,HarrSt_42to52_TOP,LanesRestaurant_1873,Restaurant,1,1873,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_42to52.htm
+42-52,HarrSt_42to52_TOP,HarrSt_42to52_1875,Terraces,1,1875,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_42to52.htm
+66,HarrSt_66_TOP,HarrSt_66_1850to1975,,1,1850,200,1976,
+66,HarrSt_66_TOP,SHFA_1977,SHFA,1,1977,na,na,http://virtualsydneyrocks.com/GuideBookPages/HarringtonStreet/HarringtonSt_66.htm
+70,HarrSt706_TOP,DFSGalleria_1980,DFS Galleria,1,1980,na,na,
+1-5,HickRd_1to5_TOP,ASNCoBuilding_1884,ASN Co Building,1,1884,na,na,
+7,HickRd_7_TOP,ParkHyattWharf_1990,Park Hyatt Hotel,1,1990,na,na,
+7,HickRd_7_TOP,ParkHyattHotel_1990,Park Hyatt Hotel,1,1990,na,na,
+2,KendLn_2to8_TOP,KendallLn_2_1853,Rocks Discovery Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/KendallLane/KendallLn_2to8.htm
+2-8,KendLn_2to8_TOP,CoachHouseMcKellerStores_1853,Rocks Discovery Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/KendallLane/KendallLn_2to8.htm
+2-8,KendLn_2to8_TOP,RocksDiscoveryMuseum1_1853,Rocks Discovery Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/KendallLane/KendallLn_2to8.htm
+2-8,KendLn_2to8_TOP,RocksDiscoveryMuseum2_1853,Rocks Discovery Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/KendallLane/KendallLn_2to8.htm
+2-8,KendLn_2to8_TOP,RocksDiscoveryMuseumWalls_1853,Rocks Discovery Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/KendallLane/KendallLn_2to8.htm
+2-8,KendLn_2to8_TOP,RocksDiscoveryMuseumCourtyard_1853,Rocks Discovery Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/KendallLane/KendallLn_2to8.htm
+special,LoftusSt_Specials_TOP,GoldsBroughMort_1921to1989,,1,1921,200,1989,
+special,LoftusSt_Specials_TOP,CustomHouseChambers_1840to1920,,1,1840,200,1920,
+1,LoftSt_1_TOP,ParagonHotel_1868,Paragon Hotel,1,1868,na,na,http://virtualsydneyrocks.com/GuideBookPages/LoftusStreet/LoftusSt_ParagonHotel.htm
+10,LoftusSt_10_TOP,LoftusSt_10_1984,Commercial,1,1984,na,na,http://virtualsydneyrocks.com/GuideBookPages/LoftusStreet/LoftusSt_10.htm
+10,LoftusSt_10_TOP,LoftusSt_10_OldFacade_1850,Commercial,1,1950,na,na,http://virtualsydneyrocks.com/GuideBookPages/LoftusStreet/LoftusSt_10.htm
+12-14,LoftusSt_12to14_TOP,GallipoliClub_1905,Gallipoli Club,1,1876,na,na,http://virtualsydneyrocks.com/GuideBookPages/LoftusStreet/LoftusSt_12to14.htm
+16-20,LoftusSt_16to20_TOP,LoftusSt_16to20_1974,Commercial,1,1974,na,na,http://virtualsydneyrocks.com/GuideBookPages/LoftusStreet/LoftusSt_16to20.htm
+52,LowerFortSt_52_TOP,GarrisonChurch_1840,Garrison Church,1,1840,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_GarrisonChurch.htm
+52,LowerFortSt_52_TOP,GarrisonChurchSchool_1846,Garrison Church School,1,1846,na,na,http://virtualsydneyrocks.com/GuideBookPages/ArgyleStreet/ArgyleSt_GarrisonChurch.htm
+,MacQPl_Specials_TOP,MacQPl_ThomasRandall_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_SandrachShaw_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_MaryReiby_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_ThomasReibie_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_StoreX_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_JudgeAdvocate_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_Chaplins_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_Surveyors_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_Cottages2_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPlSimeonLord_1803to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_Cottages1_1800to1849,,1,1800,200,1849,
+,MacQPl_Specials_TOP,MacQPl_Fences_1800to1849,,1,1800,200,1849,
+special,MacQ_Park_TOP,MacQuarieObelisk_1818,Macquarie Park,1,1818,na,na,
+1,MacQPl_1_TOP,GatewayPlaza_1989,Gateway Plaza,1,1989,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquariePlace/MacquariePl_1.htm
+1,MacQPl_1_TOP,JessieStGardens_1989,Gateway Plaza,1,1989,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquariePlace/MacquariePl_1.htm
+7,MacQPl_7_TOP,MacQPl_7_1991,Commercial and Retail,1,1991,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquariePlace/MacquariePl_7.htm
+1,MacQPl_21to25_TOP,CustomsHouseBar_1826,Customs HouseBar,1,1989,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquariePlace/MacquariePl_1.htm
+,MacQPl_21to25_TOP,MacQPl_21_Marriott_1850x,Marriott Hotel,1,1850,na,na,
+,MacQPl_21to25_TOP,MacQPl_23_Marriott_1850x,Marriott Hotel,1,1850,na,na,
+27-31,MacQPl_27to31_TOP,KyleHouse_1931,Kyle House,1,1931,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquariePlace/MacquariePl_27to31.htm
+special,MacQSt_Specials_TOP,MacQSt_MacquarieBond_1860,,1,1860,200,1925,
+special,MacQSt_Specials_TOP,MacQSt_JohnBridgeWoolStore1_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_PastoralFinanceAss_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_ohnBridgeWoolStore1_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_TwoBayWoolStore1_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_ThreeBayWoolstore1_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_ThreeBayWoolstore2_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_TallWoolstore_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_TallWoolstore_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_ThreeStoreyWoolstore_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_TwoBayWoolStore2_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_EndWharehouse_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_Woolstore1_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_Woolstore2_1860,,1,1860,200,1925,
+,MacQSt_Specials_TOP,MacQSt_Conservatorium_1916,,1,1916,na,na,
+,MacQSt_Specials_TOP,MacQSt_GovernmentHouseStables_1816,,1,1860,na,na,
+,MacQSt_Specials_TOP,MacQSt_UnileverBuildings_1957to1994,,1,1957,200,1994,
+1-7,MacQSt_1to7_TOP,Toaster_1998,Bennelong Apartments,1,1998,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_1to7.htm
+89-91,MacQSt_89to91_TOP,RACBuilding_1926,Royal Automobile Club Building,1,1926,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_89to91.htm
+93,MacQSt_93_TOP,SirStamfordHotel1_1850,Sir Stamford Hotel,1,1850,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_93.htm
+93,MacQSt_93_TOP,SirStamfordHotel2_1990,Sir Stamford Hotel,1,1990,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_93.htm
+99-113,MacQSt_99to113_TOP,TransportHouse_1938,Transport House,1,1938,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_99to113.htm
+115-119,MacQSt_115to119_TOP,TreasuryBuilding_1896,NSW Treasury Building,1,1896,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_115to119.htm
+115-119,MacQSt_115to119_TOP,IntercontinentalHotelTower_1984,Intercontinental Hotel Tower,1,1984,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_115to119.htm
+121,MacQSt_121_TOP,ChiefSecretaryBuilding_1873,NSW Chief Secretary's Building,1,1873,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_121.htm
+special,Sprecials_TOP,NursesWalk_Buildings_1900,Nurses Walk buildings,1,1900,na,na,
+special,Observatory_Hill_TOP,FortPhillip_1803,Observatory Hill,1,1803,200,1856,http://virtualsydneyrocks.com/GuideBookPages/ObservatoryHill/Observatory.htm
+special,Observatory_Hill_TOP,PowderMagazine_1815,Observatory Hill,1,1803,200,1856,http://virtualsydneyrocks.com/GuideBookPages/ObservatoryHill/Observatory.htm
+special,Observatory_Hill_TOP,MilitaryHospital_1815,Observatory Hill,1,1815,na,na,http://virtualsydneyrocks.com/GuideBookPages/ObservatoryHill/Observatory.htm
+special,Observatory_Hill_TOP,SignalStation_Semaphore_1825,Observatory Hill,1,1825,na,na,
+special,Observatory_Hill_TOP,SignalStation_Flagstaff_1825,Observatory Hill,1,1825,na,na,
+special,Observatory_Hill_TOP,FortPhillipRemnant_1840,Observatory Hill,1,1840,na,na,
+special,Observatory_Hill_TOP,SignalMastersCottage_1848,Observatory Hill,1,1848,na,na,
+special,Observatory_Hill_TOP,ObservatoryDetail_1950,Observatory Hill,1,1850,na,na,
+special,Observatory_Hill_TOP,Observatory_1857,Observatory Hill,1,1857,na,na,http://virtualsydneyrocks.com/GuideBookPages/ObservatoryHill/Observatory.htm
+special,Observatory_Hill_TOP,Observatory_SignalBall_1860,Observatory Hill,1,1860,na,na,
+special,Observatory_Hill_TOP,MessengersCottage_1870,Observatory Hill,1,1848,na,na,
+special,Observatory_Hill_TOP,Observatory_WestWing_1877,Observatory Hill,1,1877,na,na,http://virtualsydneyrocks.com/GuideBookPages/ObservatoryHill/Observatory.htm
+special,Observatory_Hill_TOP,Observatory_ToiletBlock_1990,Observatory Hill,1,1990,na,na,http://virtualsydneyrocks.com/GuideBookPages/ObservatoryHill/Observatory.htm
+2,PhilSt_2_TOP,TheQuay_1984,The Quay,1,1984,na,na,http://virtualsydneyrocks.com/GuideBookPages/PhillipStreet/PhillipSt_2.htm
+4-8,PhilSt_4to8_TOP,CourtHouse_1853,Justice and Police Museum,1,1853,na,na,http://virtualsydneyrocks.com/GuideBookPages/PhillipStreet/PhillipSt_4to8.htm
+4-8,PhilSt_4to8_TOP,PoliceStation_1858,Justice and Police Museum,1,1858,na,na,http://virtualsydneyrocks.com/GuideBookPages/PhillipStreet/PhillipSt_4to8.htm
+4-8,PhilSt_4to8_TOP,PoliceCourt_1886,Justice and Police Museum,1,1886,na,na,http://virtualsydneyrocks.com/GuideBookPages/PhillipStreet/PhillipSt_4to8.htm
+44-50,PhilSt_44to50_TOP,NSWChiefSecretarysBuilding_1873,NSW Chief Secretary's Building,1,1873,na,na,http://virtualsydneyrocks.com/GuideBookPages/MacquarieStreet/MacquarieSt_121.htm
+1,PittSt_1_TOP,ShipInn_1905,Ship Inn,1,1905,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_1.htm
+19-31,PittSt_19to31_TOP,FairfaxHouse_1970,Fairfax House,1,1970,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_19to31.htm
+33-35,PittSt_33to35_TOP,TheAtrium_1984,Atrium Building,1,1984,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_33to35.htm
+37-49,PittSt_37to49_TOP,UnderwoodHouse_1959,Underwood House,1,1959,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_37to49.htm
+51-59,PittSt_51to59_TOP,PittSt_51to59_1959,Commercial,1,1959,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_51to57.htm
+69-73,PittSt_69to73_TOP,TheRepublicHotel_1865to1899,Republic Hotel,1,1865,200,1899,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_69to73.htm
+69-73,PittSt_69to73_TOP,TheRepublicHotel_1900,Republic Hotel,1,1900,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_69to73.htm
+22,PittSt_22_TOP,ExportHouse_1980,Export House,1,1980,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_22.htm
+30,PittSt_30_TOP,Facade_1850,Facade,1,1850,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_30.htm
+30,PittSt_30_TOP,MarriottHotel_1990,Sydney Harbour Marriott Hotel,1,1990,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_30.htm
+50,PittSt_50_TOP,PittSt_50_1974,Commercial,1,1974,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_50.htm
+56,PittSt_56_TOP,WoolExchange_1853to1860,Wool Exchange,1,1853,200,1860,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_56.htm
+56,PittSt_56_TOP,WoolExchange_1861to1965,Wool Exchange,1,1861,200,1964,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_56.htm
+56,PittSt_56_TOP,RoyalExchange_1965,Royal Exchange,1,1965,na,na,http://virtualsydneyrocks.com/GuideBookPages/PittStreet/PittSt_56.htm
+17-31,PlaySt_19to27_TOP,PlaySt_19to27_1875,Playfair Street Terraces,1,1875,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_17to31.htm
+17-31,PlaySt_13to15_TOP,ArgyleTerrace_1883,Playfair Street Terraces,1,1883,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_17to31.htm
+33,PlaySt_33_TOP,ClelandBondStore_1913,Cleland Bond Store,1,1913,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_33.htm
+6-8,PlaySt_6to8_TOP,WestpacMuseum_1986,Westpac Museum,1,1986,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_6to8.htm
+22-26,PlaySt_22to26_TOP,RocksVisitorsCentre_1850,Rocks Visitor Centre,1,1850,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_22to26.htm
+22-26,PlaySt_22to26_TOP,PlaySt_Wharehouse_1850,Wharehouse,1,1850,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_22to26.htm
+22-26,PlaySt_22to26_TOP,RocksSquare_1994,Square,1,1994,na,na,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_22to26.htm
+22-26,PlaySt_22to26_TOP,PlaySt_22to26_1844,Stone stores,1,1844,200,1923,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_22to26.htm
+22-26,PlaySt_22to26_TOP,PlayfairsGarage_1924to1993,Playfairs Garages,1,1924,200,1993,http://virtualsydneyrocks.com/GuideBookPages/PlayfairStreet/PlayfairSt_22to26.htm
+special,SuezCanal_Specials_TOP,SuezCanal_building1_1900,Building,1,1900,na,na,
+special,UpperFortSt_NationalTrustCentre_TOP,MilitaryHospital_1815,National Trust Centre,1,1815,200,1848,http://virtualsydneyrocks.com/GuideBookPages/UpperFortStreet/FortSt_School.htm
+special,UpperFortSt_NationalTrustCentre_TOP,FortStSchool_1849,National Trust Centre,1,1849,200,1977,http://virtualsydneyrocks.com/GuideBookPages/UpperFortStreet/FortSt_School.htm
+special,UpperFortSt_NationalTrustCentre_TOP,SHErvinGallery_1978,National Trust Centre,1,1978,na,na,http://virtualsydneyrocks.com/GuideBookPages/UpperFortStreet/FortSt_School.htm
+1,YorkSt_1_TOP,PettysHotel_RedCrossBank_1842to1976,Pettys Hotel,1,1842,200,1976,http://virtualsydneyrocks.com/GuideBookPages/YorkStreet/YorkSt_1.htm
+1,YorkSt_1_TOP,TheYork_1982,The York,1,1982,na,na,http://virtualsydneyrocks.com/GuideBookPages/YorkStreet/YorkSt_1.htm
+3,YorkSt_3_TOP,WattleDaubChurch_1793to1798,Wattle and daub church,1,1793,200,1798,http://virtualsydneyrocks.com/GuideBookPages/YorkStreet/YorkSt_3.htm
+3,YorkSt_3_TOP,StPhilips_Dome,St Philip's Church,1,1810,200,1855,http://virtualsydneyrocks.com/GuideBookPages/YorkStreet/YorkSt_3.htm
+3,YorkSt_3_TOP,StPhilips_Tower,St Philip's Church,1,1810,200,1855,http://virtualsydneyrocks.com/GuideBookPages/YorkStreet/YorkSt_3.htm
+3,YorkSt_3_TOP,StPhilipsChurch_1856,St Philip's Church,1,1856,na,na,http://virtualsydneyrocks.com/GuideBookPages/YorkStreet/YorkSt_3.htm
+5-7,YoungSt_5to7_TOP,OzanamHouse_1860,Ozamam House and Marist Chapel,1,1860,na,na,http://virtualsydneyrocks.com/GuideBookPages/YoungStreet/YoungSt_5to7.htm
+9-13,YoungSt_9to13_TOP,YoungSt_9to13_1970,Commercial,1,1970,na,na,http://virtualsydneyrocks.com/GuideBookPages/YoungStreet/YoungSt_9to13.htm
+15-17,YoungSt_15to17_TOP,YoungSt_15to17_1971,Commercial,1,1971,na,na,http://virtualsydneyrocks.com/GuideBookPages/YoungStreet/YoungSt_15to17.htm
+15-17,YoungSt_36to42_TOP,YoungSt_36to42_1875,Terraces,1,1875,na,na,http://virtualsydneyrocks.com/GuideBookPages/YoungStreet/YoungSt_36to42.htm
+15-17,YoungSt_Specials_TOP,Morts_1869to1959,Terraces,1,1968,300,1959,http://virtualsydneyrocks.com/GuideBookPages/YoungStreet/YoungSt_36to42.htm
