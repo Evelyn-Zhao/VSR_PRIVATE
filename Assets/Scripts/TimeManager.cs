@@ -5,8 +5,8 @@
  */
 using System;
 using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
+//using System.Collections;
+//using System.Collections.Generic;
 
 public class TimeManager : Singleton<TimeManager> {
 
@@ -63,7 +63,7 @@ public class TimeManager : Singleton<TimeManager> {
 		yearToSet = 1788;
 		month = 1;
 		monthToSet = 1;
-		day = 1;
+		day =1;
 		dayToSet = 1;
 		hour = 0;
 		hourToSet = 0;
